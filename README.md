@@ -1,7 +1,7 @@
-# python_dinosaur_game
-dinosaur game, python, pygame.
+# python_stickman_game
+stickman game, python, pygame.
 
-simple dinosaur game with python, pygame.
+simple stickman game with python, pygame.
 
 blog : https://blockdmask.tistory.com/419
 
